@@ -1,6 +1,5 @@
 ### Hi, there!
-
-I'm Salsabila,
+I'm Salsabila, an desiring data analyst or scientist who continuously learning new skills.
 
 ### 📂 Projects 
 ● [Tap to see the portfolios.](https://github.com/salsabilarani/data-focused-portfolios)
