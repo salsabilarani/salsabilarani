@@ -3,9 +3,9 @@
 I'm Salsabila,
 
 ### 📂 Projects 
-[Tap to see the portfolios!](https://github.com/salsabilarani/data-focused-portfolios)
+● [Tap to see the portfolios.](https://github.com/salsabilarani/data-focused-portfolios)
 
-### 🌱 Competencies </br>
+### 🌱 Competencies
 ●	Data preparation, data manipulation, and data cleansing </br>
 ●	Exploratory data analysis </br>
 ● Descriptive statistics </br>
@@ -13,7 +13,7 @@ I'm Salsabila,
 ● Data Mart </br>
 ● Data Visualization </br>
 
-### 🧰 Tools </br>
+### 🧰 Tools
 ● Microsoft Excel/Spreadsheet </br>
 ● SQL (SQL, Dbeaver, MySQL Workbench) </br>
 ● Python (Jupyter Notebook, Google Collab) </br>
