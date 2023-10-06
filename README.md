@@ -11,9 +11,10 @@ I'm Salsabila, a desiring data analyst or scientist who continuously learning ne
 ● Mechine learning </br>
 ● Data Mart </br>
 ● Data Visualization </br>
+● Vlookup, Hlookup & Pivot Table
 
 ### 🧰 Tools
 ● Microsoft Excel/Spreadsheet </br>
 ● SQL (SQL, Dbeaver, MySQL Workbench) </br>
 ● Python (Jupyter Notebook, Google Collab) </br>
-● Visualization (Tableau, Looker Data Studio) </br>
+● Visualization (Tableau, Looker Data Studio) 
