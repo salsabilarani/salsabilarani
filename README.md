@@ -1,12 +1,12 @@
 ### Hi, there!
-I'm Salsabila, an desiring data analyst or scientist who continuously learning new skills.
+I'm Salsabila, a desiring data analyst or scientist who continuously learning new skills.
 
 ### 📂 Projects 
 ● [Tap to see the portfolios.](https://github.com/salsabilarani/data-focused-portfolios)
 
 ### 🌱 Competencies
-●	Data preparation, data manipulation, and data cleansing </br>
-●	Exploratory data analysis </br>
+● Data preparation, data manipulation, and data cleansing </br>
+● Exploratory data analysis </br>
 ● Descriptive statistics </br>
 ● Mechine learning </br>
 ● Data Mart </br>
