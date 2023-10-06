@@ -1,7 +1,6 @@
 ### Hi, there!
 
-<!--
-I'm Salsabila, an 
+I'm Salsabila,
 
 🔭 ### Projects 
 🌱 ### Competencies
