@@ -17,4 +17,4 @@ I'm Salsabila, a desiring data analyst or scientist who continuously learning ne
 ● Microsoft Excel/Spreadsheet </br>
 ● SQL (SQL, Dbeaver, MySQL Workbench) </br>
 ● Python (Jupyter Notebook, Google Collab) </br>
-● Visualization (Tableau, Looker Data Studio) 
+● Visualization (Microsoft Excel, Tableau, Looker Data Studio) 
